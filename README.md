@@ -17,8 +17,6 @@ The goal of this project was to build a regression model for **age estimation fr
   - **Support Vector Regression (SVR)** (developed for performance comparison)
 - **Performance evaluation** against the reference threshold set by the challenge
 
----
-
 ## Technologies
 - Python  
 - scikit-learn
