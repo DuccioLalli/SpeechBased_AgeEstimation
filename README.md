@@ -14,7 +14,7 @@ The goal of this project was to build a regression model for **age estimation fr
 - **Feature extraction**, including *Mel Frequency Cepstral Coefficients (MFCCs)*  
 - Implementation of two regression models:
   - A **Random Forest Regressor** (main model)  
-  - A **Support Vector Machine (SVM) Regressor** (developed for performance comparison)
+  - **Support Vector Regression (SVR)** (developed for performance comparison)
 - **Performance evaluation** against the reference threshold set by the challenge
 
 ---
