@@ -1,7 +1,8 @@
 # Age Estimation Through Speech: A Feature-Driven Random Forest Approach
 
 **Project developed for the _Data Science Lab_ course at Politecnico di Torino (Academic Year 2024–2025).**
-***Paper available in the repository.***
+
+Paper available in the repository.
 
 ---
 
